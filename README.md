@@ -1,7 +1,14 @@
 # scribbl-ez
 
-<div align="center" style="background-color: #f3e6fa; border: 2px solid #dda0dd; padding: 20px; border-radius: 10px; width: fit-content; margin: auto;">
-    <strong><a href="https://www.instagram.com/elin.zhang_" style="text-decoration: none; color: #6a0dad; font-size: 1.5em;">IG: @elin.zhang_</a></strong>
-</div>
+<p align="left">
+    <a href="https://www.instagram.com/elin.zhang_">
+        <img alt="Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-Follow-purple?color=%235B3C88&labelColor=%237D53B8&style=for-the-badge&logo=person-add&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/elin-zhang">
+        <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blueviolet?color=%235B3C88&labelColor=%237D53B8&style=for-the-badge&logo=person-add&logoColor=white"/>
+    </a>
+</p>
+
+---
 
 
