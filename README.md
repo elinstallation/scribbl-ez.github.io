@@ -8,6 +8,7 @@
         <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blueviolet?color=%235B3C88&labelColor=%237D53B8&style=for-the-badge&logo=person-add&logoColor=white"/>
     </a>
 </p>
+
 ---
 
 ### 🧰 Languages and Tools
