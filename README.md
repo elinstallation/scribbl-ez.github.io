@@ -20,12 +20,6 @@
 
 <br /><br />
 
-#### Real Languages
-
-<img align="left" alt="Swedish" width="30px" style="padding-right:10px;" src="https://cdn.countryflags.com/thumbs/sweden/flag-800.png" />
-<img align="left" alt="Chinese" width="30px" style="padding-right:10px;" src="https://cdn.countryflags.com/thumbs/china/flag-800.png" />
-<img align="left" alt="English" width="30px" style="padding-right:10px;" src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-800.png" />
-<img align="left" alt="French" width="30px" style="padding-right:10px;" src="https://cdn.countryflags.com/thumbs/france/flag-800.png" />
 
 <br /><br />
 
