@@ -11,7 +11,7 @@
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages 
 
 #### Programming Languages
 
